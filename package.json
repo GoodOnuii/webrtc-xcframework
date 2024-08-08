@@ -1,0 +1,20 @@
+{
+  "name": "@seoltab/webrtc-xcframework",
+  "version": "125.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoodOnuii/webrtc-xcframework.git"
+  },
+  "description": "LiveKit version Dynamic WebRTC XCFramework",
+  "license": "MIT",
+  "homepage": "https://github.com/GoodOnuii/webrtc-xcframework",
+  "keywords": [
+    "react-native",
+    "ios",
+    "webrtc",
+    "xcframework"
+  ],
+  "bugs": {
+    "url": "https://github.com/GoodOnuii/webrtc-xcframework/issues"
+  }
+}
